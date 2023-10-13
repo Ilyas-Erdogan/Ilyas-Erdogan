@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 :ru: Здравствуйте, меня зовут Ильяс, Я студент третьего курса факультета компьютерных технологий Университета Queen's!
 <br>
-:tr: Merhaba, benim adı İlyas, Queen's Üniversitesi'nde bilgisayar mühendisliği üçüncü sınıf öğrencisiyim!
+:tr: Merhaba, benim adım İlyas, Queen's Üniversitesi'nde bilgisayar mühendisliği üçüncü sınıf öğrencisiyim!
 <br>
